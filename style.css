@@ -25,6 +25,10 @@
     border-radius: 30px;
 }
 
+.btn:hover {
+    background: rgb(179, 173, 173);
+}
+
 .popup{
     width: 400px;
     background: #fff;
@@ -71,4 +75,8 @@
     border-radius: 4px;
     cursor: pointer;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.popup button:hover {
+    background: #34a71a;
 }
